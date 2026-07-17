@@ -99,9 +99,9 @@
           "title": "Otros servicios mencionados en IG / reseñas",
           "imageAlt": "Cosmetología",
           "services": [
-            { "name": "Inyecciones de B12", "price": "80" },
-            { "name": "Terapia PRP", "price": "75" },
-            { "name": "Esculpido corporal", "price": "50" }
+            { "name": "Inyecciones de B12", "price": "25" },
+            { "name": "Terapia PRP", "price": "250" },
+            { "name": "Esculpido corporal", "price": "150" }
           ]
         }
       }

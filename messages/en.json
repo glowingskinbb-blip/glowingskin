@@ -99,9 +99,9 @@
           "title": "Other services mentioned on IG / reviews",
           "imageAlt": "Cosmetology girl",
           "services": [
-            { "name": "B12 shot injections", "price": "80" },
-            { "name": "PRP therapy", "price": "75" },
-            { "name": "Body sculpting", "price": "50" }
+            { "name": "B12 shot injections", "price": "25" },
+            { "name": "PRP therapy", "price": "250" },
+            { "name": "Body sculpting", "price": "150" }
           ]
         }
       }
